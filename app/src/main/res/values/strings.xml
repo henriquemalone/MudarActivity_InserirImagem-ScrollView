@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AtmEmpresaConsultoria</string>
+    <string name="sobreEmpresa">Sobre a empresa</string>
+    <string name="email">empresa@atm.com.br</string>
+    <string name="telefone">(19) 1234-5678</string>
+    <string name="celular">(19) 99876-5432</string>
+</resources>
